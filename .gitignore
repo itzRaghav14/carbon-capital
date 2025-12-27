@@ -39,8 +39,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-<<<<<<< HEAD
-=======
 
 /src/generated/prisma
->>>>>>> b0ea39f (Initial commit from Create Next App)
